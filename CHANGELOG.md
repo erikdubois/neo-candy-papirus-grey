@@ -1,11 +1,11 @@
 # Changelog
 
-## 2026.06.23 — neo-candy colour split
+## 2026.06.23 — Papirus grey folder colour
 
 ### What Changed
 
-Initial standalone repo. The **neo-candy-papirus-grey** folder icons mirror `erikdubois/surfn-papirus-grey` but fall
-back to **neo-candy-icons** instead of Surfn. Packaged as `neo-candy-papirus-grey-icons-git`, depending on `neo-candy-icons-git`.
+Initial repo. The **neo-candy-papirus-grey** folder icons were recoloured to **grey** from the Papirus icon theme
+and ship as `neo-candy-papirus-grey-icons-git`, depending on `neo-candy-icons-git`.
 
 ### Files Modified
 
